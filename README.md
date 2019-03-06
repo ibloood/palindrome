@@ -1,8 +1,7 @@
 # Palindrome
 
----
 
-# Verify if a phrase or a word is palindrome
+Verify if a phrase or a word is palindrome
 
 ---
 
